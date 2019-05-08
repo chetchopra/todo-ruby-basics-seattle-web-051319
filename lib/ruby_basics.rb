@@ -10,7 +10,8 @@ def argue(d)
   return d  
 end
 
-def greeting
+def greeting(gret, name)
+  puts "#{gret} #{name}!"
 
 end
 
